@@ -2,6 +2,7 @@
 
 ```
 A software engineer from Taiwan
+, currently a front-end developer @ 
 , was formerly a fullstack engineer @ Garmin Connect
 , writes JavaScript
 , loves front end stuffs
