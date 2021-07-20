@@ -2,7 +2,7 @@
 
 ```
 A software engineer from Taiwan
-, currently a front-end developer @ DBS
+, currently a front-end developer @ DBS(星展銀行)
 , was formerly a fullstack engineer @ Garmin Connect
 , writes JavaScript
 , loves front end stuffs
