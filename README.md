@@ -6,3 +6,5 @@ A software developer based in Taiwan
 - formerly a back-end developer @ Garmin Connect
 - making some stuffs with JavaScript, CSS, and HTML
 ```
+
+<img src="./imac-orange.gif" />
