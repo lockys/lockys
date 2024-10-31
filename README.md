@@ -7,4 +7,4 @@ A software developer based in Taiwan
 - making some stuffs with JavaScript, CSS, and HTML
 ```
 
-<img src="./imac-orange.gif" />
+<img src="./imac-orange.gif" alt="an orange imac gif" /> <img src="./win95.gif" alt="an windows 95 gif" />
